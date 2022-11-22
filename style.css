@@ -1,5 +1,6 @@
 :root{
-    --heart--color: #f44336;
+    /* --heart--color: #f44336; */
+    --heart--color: #b200ed;
 }
 body{
     height: 100vh;
